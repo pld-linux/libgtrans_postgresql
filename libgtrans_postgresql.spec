@@ -7,6 +7,7 @@ Release:	1
 License:	GPL
 Group:		Applications/Databases
 Source0:	http://dl.sourceforge.net/gtranscript/%{name}-%{version}.tar.gz
+# Source0-md5:	a7183fd71d6a4ea2495bc49e21d76fd5
 URL:		http://gtranscript.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
