@@ -13,11 +13,11 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 libgtrans_postgresql_6_5_3 is a plugin for GNOME Transcript that
-provides postgresql access.
+provides PostgreSQL access.
 
 %description -l pl
 libgtrans_postgresql_6_5_3 jest wtyczk± do GNOME Transcript dodaj±c±
-obs³ugê baz danych postgresql 6.5.3.
+obs³ugê baz danych PostgreSQL 6.5.3.
 
 %prep
 %setup -q
