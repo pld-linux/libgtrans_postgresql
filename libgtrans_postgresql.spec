@@ -1,12 +1,15 @@
-Summary:	Database Access Library
+Summary:	Database Access Library for PostgreSQL
+Summary(pl):	Biblioteka dostêpu do baz danych PostgreSQL
 Name:		libgtrans_postgresql_6_5_3
 Version:	0.2.0
 Release:	1
 License:	GPL
 Group:		Applications/Databases
+Group(de):	Applikationen/Dateibanken
 Group(pl):	Aplikacje/Bazy danych
+Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/gtranscript/%{name}-%{version}.tar.gz
+URL:		http://gtranscript.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
-Source0:	libgtrans_postgresql_6_5_3-%{ver}.tar.gz
 
 %define		_sysconfdir	/etc
 
