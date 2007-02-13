@@ -1,6 +1,6 @@
 # TODO: fix %files
 Summary:	Database Access Library for PostgreSQL
-Summary(pl.UTF-8):   Biblioteka dostępu do baz danych PostgreSQL
+Summary(pl.UTF-8):	Biblioteka dostępu do baz danych PostgreSQL
 Name:		libgtrans_postgresql_6_5_3
 Version:	0.2.0
 Release:	1
